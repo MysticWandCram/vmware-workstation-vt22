@@ -1,4 +1,4 @@
-# 
+# elite VMware Workstation PC版 插件 是最佳 VMware Workstation PC版 插件，集成 性能优化 和 快照管理。安全、可靠、优化，性能最大化。
 
 
 
